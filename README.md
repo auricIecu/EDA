@@ -1,4 +1,3 @@
-Aquí tienes el contenido listo para pegar en tu archivo README.md con un formato limpio y bien estructurado:
 
 ---
 
